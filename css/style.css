@@ -1,0 +1,207 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+/***/
+.header{
+	width:800px;
+	height:420px;
+/*	background:#F8EDC6;*/
+	margin:0 auto;
+}
+.header img{
+	width:800px;
+	height: 400px;
+}
+body {
+	background-size: 110%;
+	background-repeat: repeat-y;
+}
+#wrap {
+	height:1850px;
+} 
+.menu {
+	width: 800px;
+	height:200px;
+/*	background:#525151;*/
+	margin: 0 auto;
+}
+.menu ul{
+	list-style: none;
+	width:800px;
+	height:50px;
+/*	background:#261313;*/
+	line-height:50px;
+}
+.menu ul li{
+	width:80px;
+	float:left;
+	margin-left:92px;
+/*	background:#FFC92C;*/
+	text-align: center;
+}
+.menu ul li a{
+	color: black;
+	text-decoration: none;
+	font-size: 17px;
+}
+.menu ul li a:hover{
+	color:#FCD04F;
+}
+.menu p{
+	font-size:54px;
+	color:hsla(0,0%,22%,1.00);
+	text-align: center;
+}
+/*menu*/
+.header ul li{
+	float:right;
+	margin-left: 20px;
+	font-size: 20px;
+	color:#1D1D1D;
+	text-align: center;	
+}
+/*header*/
+.content{
+	width:800px;
+	height:1150px;
+/*	background:#A78383;*/
+	margin:0 auto;
+}
+.gioithieu h1{
+	text-align: center;
+}
+.gioithieu p{
+	text-align: center;
+	color:black;
+}
+.hoatdong h1{
+	text-align: center;
+}
+.vuongto{
+	width:800px;
+	height:900px;
+	background:white;
+	margin-bottom: 100px;
+}
+/*
+.muc1 img{
+	width:400px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+*/
+.muc1 {
+	background: hsla(105,20%,20%,1.00);
+	height: 300px;
+	padding-left: 20px;
+	
+}
+.muc1 img {
+	height:80%;
+	margin-right: 20px;
+	float : left;
+	margin-top:30px;
+}
+.muc1 .text {
+	float:right;
+	width:40%;
+	margin-right:20px;
+	margin-top:30px;}
+.muc1 .text b a {
+	color:black;
+	text-decoration: none;
+	font-size:20pt;}
+.muc1 .text b a:hover {
+	color:#FCD04F;
+
+}
+.muc2 {
+	background: hsla(105,20%,20%,1.00);
+	height: 300px;
+	padding-left: 20px;
+	
+}
+.muc2 img {
+	height:76.5%;
+	margin-right: 20px;
+	float : left;
+	margin-top:30px;
+}
+.muc2 .text {
+	float:right;
+	width:40%;
+	margin-right:20px;
+	margin-top:30px;}
+.muc2 .text b a {
+	color:black;
+	text-decoration: none;
+	font-size:20pt;}
+.muc2 .text b a:hover {
+	color:#FCD04F;
+}
+.muc3 {
+	background: hsla(105,20%,20%,1.00);
+	height: 300px;
+	padding-left: 20px;
+	
+}
+.muc3 img {
+	height:82%;
+	margin-right: 20px;
+	float : left;
+	margin-top:30px;
+}
+.muc3 .text {
+	float:right;
+	width:40%;
+	margin-right:20px;
+	margin-top:30px;}
+.muc3 .text b a {
+	color:black;
+	text-decoration: none;
+	font-size:20pt;}
+.muc3 .text b a:hover {
+	color:#FCD04F;}
+#wrap .contact {
+	background: black;
+	width: 100%;
+	height:150px;
+	padding-left:90px;
+	padding-right:90px;
+	color:white;
+	font-size:9pt;
+	font-family: palatino linotype;
+
+}
+#wrap .contact a{
+	font-size:14pt;
+	text-decoration: none;
+	color:white;
+}
+
+#wrap .contact .tochuc1 {
+	float:left;
+	width:24%;
+	height:74%;
+/*	background:hsla(359,64%,38%,1.00);*/
+	margin-right:8px;
+	padding:2%;
+}
+	
+#wrap .contact .tochuc2 {
+	float:left;
+	width:23%;
+	height:74%;
+/*	background:hsla(359,64%,38%,1.00);*/
+	padding:2%;
+}
+#wrap .contact .tochuc3 {
+	float:right;
+	width:21%;
+	height:74%;
+/*	background:hsla(359,64%,38%,1.00);*/
+	margin-right:180px;
+	padding:2%;
+}
